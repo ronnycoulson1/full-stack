@@ -1,2 +1,6 @@
 # full-stack
-full stack projects, solo and group collaborations, implementing, js, html, css and frameworks
+FUll-Stack projects: (solo and group collaborations)
+Programming skills: 
+Js, Html, css
+Frameworks 
+Sql, APIs
